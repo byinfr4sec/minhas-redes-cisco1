@@ -8,7 +8,7 @@ Esta simulação representa uma **empresa com 4 departamentos** (Administração
 
 **Author:** Rafael Pereira - Infr4Sec
 **Stack:** Cisco Packet Tracer 8.2+  
-**Tempo de Construção:** 2 horas  
+**Tempo de Construção:** 1 hora  
 **Dificuldade:** Intermediário (CCNA nível)
 
 ---
